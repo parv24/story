@@ -1,2 +1,5 @@
 git log
 git add
+day2:
+git branch
+git checkout
